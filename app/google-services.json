@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1027370024078",
+    "firebase_url": "https://bits-caller-app-db9cb.firebaseio.com",
+    "project_id": "bits-caller-app-db9cb",
+    "storage_bucket": "bits-caller-app-db9cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027370024078:android:7e96b2ae5b9425e19b1ddf",
+        "android_client_info": {
+          "package_name": "com.d.bitscaller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027370024078-golrhq14icjn4g01t8fgga0lbjloaeq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqhTYvRIJEJM1cHPZYiwJpV26lRa8XQeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027370024078-golrhq14icjn4g01t8fgga0lbjloaeq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
